@@ -6,7 +6,11 @@ Branch ---> Dallanma demek.
 deneme  1-2-3
 
 
+"""git ve github farkı:
+git-->teknolojinin kendisi
+github--> 'da web tabanlı hali
 
+git---->>Git, dağıtık bir versiyon kontrol sistemi olarak kullanılan açık kaynaklı bir yazılımdır. Bu sistem, bir proje veya belge üzerindeki değişiklikleri takip etmenize, kaydetmenize ve yönetmenize olanak tanır.
 
 
 $ git config --global user.name "omer ipek"      yapıldı ....!!
@@ -14,4 +18,4 @@ $ git config --global user.name "omer ipek"      yapıldı ....!!
 
 github hesabınada giriş yapıldı
 
- şaunlık bu kadar
+ şaunlık bu kadar    
