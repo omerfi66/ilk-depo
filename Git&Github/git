@@ -1,0 +1,17 @@
+
+commit ---> Proje içerisinde yapılan her bir değişiklik.(yapılan değişiklikleri kaydetmek)..Bir "commit" işlemi, yapılan değişikliklerin bir snapshot'ını (anlık görüntüsünü) kaydeden bir işlemdir. Bu snapshot, projenin o andaki durumunu temsil eder ve versiyon kontrol sistemi tarafından takip edilir.  commit1 - commit2 - commit3 - vs vs yapılan değşiklikler..   ($ git config --global user.name "omer ipek")
+
+Branch ---> Dallanma demek.
+
+deneme  1-2-3
+
+
+
+
+
+$ git config --global user.name "omer ipek"      yapıldı ....!!
+
+
+github hesabınada giriş yapıldı
+
+ şaunlık bu kadar
